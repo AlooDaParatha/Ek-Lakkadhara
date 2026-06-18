@@ -463,7 +463,7 @@ GameObject:
   - component: {fileID: 1941441045}
   - component: {fileID: 1941441044}
   m_Layer: 0
-  m_Name: seb_dene_wala
+  m_Name: ped
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
